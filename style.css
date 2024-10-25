@@ -1,0 +1,28 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    padding: 13px;
+    
+}
+ul{
+    display: flex;
+    list-style: none;
+    margin: 15px;
+    margin-right: 80px;
+    margin-top: 15px;
+}
+ul a{
+    text-decoration: none;
+    margin: 15px;
+    color: black;
+}
+nav h1{
+    margin-left: 200px;
+    margin-top: 10px;
+}
